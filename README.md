@@ -1,7 +1,6 @@
 # README TEMPLATE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-![License](https://img.shields.io/badge/Made%20with-Markdown-darkgreen.svg)
 [![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/commits)
 [![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/branches)
 [![GitHub followers](https://img.shields.io/github/followers/HobbaZ.svg)]()
