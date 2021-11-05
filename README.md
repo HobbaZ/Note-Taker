@@ -1,26 +1,17 @@
 # README TEMPLATE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-[![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/commits)
-[![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/branches)
+[![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/Note-Taker)](https://github.com/HobbaZ/Note-Taker/commits)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/Note-Taker)](https://github.com/HobbaZ/Note-Taker/branches)
 [![GitHub followers](https://img.shields.io/github/followers/HobbaZ.svg)]()
-![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/README-template)
-[![GitHub issues](https://img.shields.io/github/issues/HobbaZ/README-template)](https://img.shields.io/github/issues/HobbaZ/README-template)
-![GitHub forks](https://img.shields.io/github/forks/HobbaZ/README-template)
-![GitHub language count](https://img.shields.io/github/languages/count/HobbaZ/README-template)
-![GitHub search hit counter](https://img.shields.io/github/search/HobbaZ/README-template/hits)
-
-Go to [shields.io](https://img.shields.io) to see what other badges you can add to your projects (to use the ones above, just change to your username and repo)
+![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/Note-Taker)
+[![GitHub issues](https://img.shields.io/github/issues/HobbaZ/Note-Taker)](https://img.shields.io/github/issues/HobbaZ/Note-Taker)
+![GitHub forks](https://img.shields.io/github/forks/HobbaZ/Note-Taker)
+![GitHub language count](https://img.shields.io/github/languages/count/HobbaZ/Note-Taker)
 
 ## Description
 ### Project Aim ###
-Ever needed a professional README layout but didn't know where to start? Use this template to quickly develop a professional README. 
-
-
-**Change the sections with your own text.**
-
-
-You can add code blocks and other font stylings to your README via the markdown syntax, look at this [mastering markdown ](https://guides.github.com/features/mastering-markdown/) link for more information.
+To complete back end functionality of a note taker app.
 
 ### What Problem Does It Solve ###
 Solves the programmer's most gruelling and hated task, documentation.
@@ -29,7 +20,7 @@ Solves the programmer's most gruelling and hated task, documentation.
 Put what skills you learnt or advanced upon here.
 
 ## Deployment
-You can view the [website link](https://github.com/HobbaZ/README-template) here. 
+You can view the [website link](https://github.com/HobbaZ/Note-Taker) here. 
 
 
 ## Table of Contents
