@@ -72,10 +72,8 @@ Github, VS Code, Gitbash
 - Badges
 
 ## Technology
-List tech stack you used to create your project here (e.g. Node.js, Inquirer npm package, Github API)
-- Github
-- 
-- 
+- Node.js
+- Express.js
 
 ## Contributors
 [Zachary Hobba](https://github.com/HobbaZ)
@@ -83,12 +81,13 @@ List tech stack you used to create your project here (e.g. Node.js, Inquirer npm
 You can also contribute by opening a pull request or submitting an issue
 
 ## Acknowledgements
-Put url's of website's that helped you in creating your project here.
-E.g.
+[https://stackoverflow.com/questions/7310559/the-best-way-to-remove-array-element-by-value](https://stackoverflow.com/questions/7310559/the-best-way-to-remove-array-element-by-value)
 
-[Google Fonts Lalezar](https://fonts.google.com/specimen/Lalezar?category=Display#standard-styles)
+[https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
 
-[Shields.io](https://shields.io/)
+[https://stackabuse.com/reading-and-writing-json-files-with-node-js/](https://stackabuse.com/reading-and-writing-json-files-with-node-js/)
+
+[https://www.npmjs.com/package/uuid](https://www.npmjs.com/package/uuid)
 
 [Coolers](https://coolors.co/)
 
@@ -96,12 +95,6 @@ E.g.
 List any unit tests you've created for your project here
 
 ## License
-
-This is the licence conditions you apply to your project (e.g. limitations on how it can be used, if they need to attribute you as the creator). 
-
-**Remember to change the copyright text to the current year and your name!**
-
-View licences available at [choosealicence website](https://choosealicense.com/licenses/)
 
 MIT
 
@@ -113,7 +106,5 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Questions
-Change these to your values
-
 Find me on Github at [HobbaZ](https://github.com/HobbaZ)
 Email me at [zachobba@gmail.com](zachobba@gmail.com)
