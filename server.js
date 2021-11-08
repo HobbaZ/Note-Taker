@@ -80,26 +80,6 @@ app.post('/api/notes/:id', async (request, response) => {
   response.send(edit)
 });
 
-/*//Editing notes
-app.get('/api/notes/:id', (request, response) => {
-  let noteToGet = request.params.id;
-
-    // db is an array with objects in it should be able to use splice to remove note
-    for (let index = 0; index < db.length; index++) {
-      if (noteToGet === db[index].id) {
-        break;
-    }
-  }
-   //write db file again
-   fs.writeFile("./db/db.json", JSON.stringify(db, null, 2), (err) => { //null, 2 adds new lines and indentation to JSON file to make it easier to read
-    if (err) throw (err);
-  
-    console.log("Note deleted");
-  
-    return response.json(db);
-  });
-});*/
-
 // GET Route if user inputs anything else (put last)
 app.get('*', (request, response) => {
   response.sendFile(path.join(__dirname, '/public/index.html'))
