@@ -11,16 +11,16 @@
 
 ## Description
 ### Project Aim ###
-To complete back end functionality of a note taker app. Can create notes and save them for leter use.
+To complete back end functionality of a note taker app. Can create notes, save them and view them for later use.
 
 ### What Problem Does It Solve ###
-
+Collating the thoughts of busy business professionals so they can run their lives and businesses better.
 
 ### What I Learnt ###
-
+Deploying to Heroku, express.js and api routing.
 
 ## Deployment
-You can view the [website link](https://github.com/HobbaZ/Note-Taker) here. 
+You can view the [website link](https://note-taker-hobbaz.herokuapp.com/) here. 
 
 
 ## Table of Contents
@@ -70,10 +70,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
 
 ## Installation
-You will need: 
-Node.js, Express.js, uuid
-
-1. Clone repo
+Nothing to install unless you're cloning the repo to your computer (if so, you will need node.js and run npm i in terminal)
 
 ## Features
 - Create Notes
@@ -82,7 +79,7 @@ Node.js, Express.js, uuid
 ## Technology
 - Node.js
 - Express.js
-- uuid package
+- uuid npm package
 - Heroku
 
 ## Contributors
