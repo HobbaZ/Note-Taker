@@ -1,4 +1,4 @@
-# README TEMPLATE
+# NOTE TAKER
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 [![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/Note-Taker)](https://github.com/HobbaZ/Note-Taker/commits)
