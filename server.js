@@ -5,7 +5,7 @@ const path = require('path');
 const db = require('./db/db.json');
 const { v4: uuidv4 } = require('uuid');
 
-const PORT = process.env.port || 3003;
+const PORT = process.env.PORT || 3003;
 
 const app = express();
 
