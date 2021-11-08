@@ -1,6 +1,6 @@
 const express = require('express');
 const fs = require('fs');
-const util = require('util');
+//const util = require('util');
 const path = require('path');
 const db = require('./db/db.json');
 const { v4: uuidv4 } = require('uuid');
@@ -29,22 +29,21 @@ app.get('/api/notes', (request, response) => {
     return response.json(db);
 });
 
-// POST request
+// POST request for new note
 app.post('/api/notes', (request, response) => {
 
   //create a note and create id
   let createNote = request.body;
   createNote.id = uuidv4();
-  
+  console.log(request.body.id)
   //push note to db file
     db.push(createNote);
- 
+
  fs.writeFile("./db/db.json", JSON.stringify(db, null, 2), (err) => { //null, 2 adds new lines and indentation to JSON file to make it easier to read
   if (err) throw (err);
-
   console.log(createNote, "Note has been added to db.json file");
-
   return response.json(createNote);
+ 
 });
 });
 

@@ -11,13 +11,13 @@
 
 ## Description
 ### Project Aim ###
-To complete back end functionality of a note taker app.
+To complete back end functionality of a note taker app. Can create notes and save them for leter use.
 
 ### What Problem Does It Solve ###
-Solves the programmer's most gruelling and hated task, documentation.
+
 
 ### What I Learnt ###
-Put what skills you learnt or advanced upon here.
+
 
 ## Deployment
 You can view the [website link](https://github.com/HobbaZ/Note-Taker) here. 
@@ -37,43 +37,50 @@ You can view the [website link](https://github.com/HobbaZ/Note-Taker) here.
 - [Questions](#questions)
 
 ## User Story
-GIVEN a basic application description (e.g. GIVEN a command line application that accepts user input)
+GIVEN a note-taking application
 
-WHEN I do something (e.g. WHEN I click a button)
+WHEN I open the Note Taker
 
-THEN some action happens (e.g. THEN I am redirected to repo owner's Github page)
+THEN I am presented with a landing page with a link to a notes page
 
-Repeat WHEN and THEN until all major project needs have been defined
+WHEN I click on the link to the notes page
+
+THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
+
+WHEN I enter a new note title and the note’s text
+
+THEN a Save icon appears in the navigation at the top of the page
+
+WHEN I click on the Save icon
+
+THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
+
+WHEN I click on an existing note in the list in the left-hand column
+
+THEN that note appears in the right-hand column
+
+WHEN I click on the Write icon in the navigation at the top of the page
+
+THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Screenshots
-![Cool example image Photo by <a href="https://unsplash.com/@ffstop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fotis Fotopoulos</a> on <a href="https://unsplash.com/s/photos/programming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  ](./assets/images/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg)
-  
-![Cool example photo by Photo by <a href="https://unsplash.com/@altumcode?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">AltumCode</a> on <a href="https://unsplash.com/s/photos/programming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  ](./assets/images/altumcode-XMFZqrGyV-Q-unsplash.jpg)
+
 
 ## Installation
 You will need: 
-Github, VS Code, Gitbash
+Node.js, Express.js, uuid
 
-1. Click Use this Template
-2. Enter a name for your repo
-3. Git clone new repo to your computer by right clicking SSH link in your repo, then open gitbash and type:
-
-    'git clone' 
-    
-    Then right click next to git clone text and your SSh link will be pasted in for you, hit enter and wait as it compiles
-
-4. Open the repo in your editor software and edit the README to your values
+1. Clone repo
 
 ## Features
-- Clickable table of contents
-- Easily modifiable for more sections, more images, etc
-- Badges
+- Create Notes
+- Save notes
 
 ## Technology
 - Node.js
 - Express.js
+- uuid package
+- Heroku
 
 ## Contributors
 [Zachary Hobba](https://github.com/HobbaZ)
@@ -89,10 +96,8 @@ You can also contribute by opening a pull request or submitting an issue
 
 [https://www.npmjs.com/package/uuid](https://www.npmjs.com/package/uuid)
 
-[Coolers](https://coolors.co/)
-
 ## Testing
-List any unit tests you've created for your project here
+No tests created
 
 ## License
 
